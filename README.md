@@ -1,2 +1,2 @@
 # EvalOCR
-A python wrapper for the Evaluation Metrics of the Hidden Markov Model Toolkit (HTK): ```HResults$```, used for OCR purposes. 
+A python wrapper for the ```HResults``` command of the Hidden Markov Model Toolkit (HTK), used for evaluation purposes of OCR results. 
